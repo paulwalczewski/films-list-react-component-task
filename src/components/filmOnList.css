@@ -1,0 +1,17 @@
+.film-on-list {
+  display: block;
+  list-style-type: none;
+  border: 1px solid #ddd;
+  border-bottom: none;
+  padding: 20px;
+}
+
+.film-on-list:last-child {
+  border-bottom: 1px solid #ddd;
+}
+
+.film-on-list img {
+  display: block;
+  max-width: 120px;
+  margin: 0 auto 16px;
+}

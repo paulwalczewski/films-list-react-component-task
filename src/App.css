@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+}
+
+.app-intro {
+  font-size: 18px;
+}
+
+.films-list {
+  width: 300px;
+  margin: 10px auto;
+  padding: 0;
+}
